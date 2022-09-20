@@ -30,7 +30,7 @@ export default class Types {
 
     }
 
-    division (number1: number, number2: number): number | string{
+    division (number1: number, number2: number): number | string {
 
         // return number1 / number2;
 
